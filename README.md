@@ -17,6 +17,7 @@ gcc Consumer.c -o Consumer
 ./Consumer #for Consumer use</pre>  
 ## Installation on macOS  
 <pre>#Install Xcode if not installed  
+xcode-select --install  
 git clone https://github.com/ashir-malik/Simple_Bank_Application_v1.0.git  
 cd Simple_Bank_Application_v1.0  
 gcc AdminPanel.c -o AdminPanel  
