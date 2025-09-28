@@ -1,0 +1,3 @@
+user1 pass123 John_Doe 7974.750000
+admin bank123 Alice_Smith 4200.000000
+anabell_jake98 p@ssword1 Anabell_Jake 60292.000000
